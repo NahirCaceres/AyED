@@ -1,10 +1,7 @@
-Nombre: Nahir Ludmila
+#include <iostream>
+using namespace std;
+int main(){
+  cout<<"Hola Nahir Caceres"<< endl;
 
-Apellido: Caceres Colasanti
-
-Codigo de Comision: K1202
-
-g++.exe (Rev2, Built by MSYS2 project) 14.2.0
-Copyright (C) 2024 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
-warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+return 0;
+}
